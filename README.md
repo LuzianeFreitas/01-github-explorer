@@ -14,5 +14,3 @@ Projeto desenvolvido durante a primeira aula, nele foi utilizado a API do gitHub
 - TypeScript
 
 
-
-<h3>:bookmark: Desafios</h3>
